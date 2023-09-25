@@ -8,7 +8,7 @@ This Python trading algorithm is designed to execute long strangle positions bas
 
 1. **Market Data Retrieval**: The algorithm can fetch both historical and real-time market data from the Interactive Brokers Trader Workstation (TWS).
 
-2. **Implied Volatility Analysis**: It calculates implied volatility and other technical indicators to make trading decisions.
+2. **Relative Volume Analysis**: It calculates relative volume and other technical indicators to make trading decisions.
 
 3. **Long Strangle Strategy**: The algorithm focuses on executing long strangle positions when specific criteria are met. A long strangle involves buying both a call option and a put option with the same expiration date but different strike prices.
 
@@ -18,7 +18,7 @@ This Python trading algorithm is designed to execute long strangle positions bas
 
 ## Long Strangle Strategy
 
-The primary trading strategy implemented by this algorithm is the long strangle strategy. When certain conditions are met, the algorithm creates a long strangle position. Here are the key aspects of this strategy:
+The primary trading strategy implemented by this algorithm is the long-strangle strategy. When certain conditions are met, the algorithm creates a long strangle position. Here are the key aspects of this strategy:
 
 - **Long Strangle Position**: A long strangle involves purchasing both a call and a put option with the same expiration date but different strike prices.
 - **Volatility Profits**: This strategy aims to profit from significant price movements in the underlying asset. It doesn't depend on the market's direction but relies on volatility.
