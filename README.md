@@ -39,7 +39,7 @@ there are several advantages to the following strategy which are:
 ### Video Explanation
 **[Long Strangle Video](https://www.youtube.com/watch?v=clhFk5Tp6E8)**
 
-**Watch this YouTube video for an in-depth explanation of the short straddle strategy and how it can be applied in various market conditions.**
+**Watch this YouTube video for an in-depth explanation of the long strangle strategy and how it can be applied in various market conditions.**
 
 
 ## Requirements
